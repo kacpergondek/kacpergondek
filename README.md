@@ -14,7 +14,7 @@ My development machine
 <summary align='center'>
 <img src="https://img.shields.io/badge/amd-Ryzen%205%201600-%23ED1C24.svg?&style=for-the-badge&logo=amd&logoColor=white" />
 <img src="https://img.shields.io/badge/nvidia-gtx1060-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
-<img src="https://img.shields.io/badge/manjaro-%2335BF5C.svg?&style=for-the-badge&logo=manjaro&logoColor=white" />
+<img src="https://camo.githubusercontent.com/1ddd013f6febda59db873ff351f8c3d4167c4781bc991d20b90dd6e562b61cae/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d417263682b4c696e757826636f6c6f723d313739334431266c6f676f3d417263682b4c696e7578266c6f676f436f6c6f723d464646464646266c6162656c3d" />
 </summary>
 
 <h3 align = 'center'>
@@ -30,9 +30,6 @@ My development machine
   Find me on:
  </h3>
   <summary align='center'>
-  <a href="https://steamcommunity.com/id/ZeKKaos">
-    <img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" />
-  </a>
  <a href="https://www.linkedin.com/in/kacper-gondek-b85706193/" >
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
  </a>
