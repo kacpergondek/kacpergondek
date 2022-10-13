@@ -3,9 +3,9 @@
 Hi there, I'm Kacper
 </h1>
 <ul>
-<li>Currently a second year CS student :neckbeard: </li>
+<li>Currently an AI Masters Degree student :neckbeard: </li>
 <li>A Linux enthusiast :penguin: </li>
-<li>Loves to learn history, languages and play video games :hourglass: :video_game: </li>
+<li>Loves to learn history, lift weights at the gym and play video games :hourglass: :video_game: </li>
 </ul>
 
 <h2 align='center' >
