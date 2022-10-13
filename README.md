@@ -5,7 +5,7 @@ Hi there, I'm Kacper
 <ul>
 <li>Currently an AI Masters Degree student :neckbeard: </li>
 <li>A Linux enthusiast :penguin: </li>
-<li>Loves to learn history, lift weights at the gym and play video games :hourglass: :video_game: </li>
+<li>Loves to learn history, go to the gym and play video games :hourglass: :video_game: </li>
 </ul>
 
 <h2 align='center' >
